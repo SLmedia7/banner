@@ -2,7 +2,7 @@
 #
 #
 # Termux Banner
-# Banner by sl media (8h4i)
+# Banner by sl media 
 # _____Do Not Copy Or Modify_____
 #
 #
